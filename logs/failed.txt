@@ -1,0 +1,13 @@
+1|adearmanw@gmail.com:AdeArman1412|212.83.143.103:36633
+1|adearmanw@gmail.com:AdeArman1412|socks5://212.83.143.103:36633
+6|adearmanw@gmail.com:AdeArman1412|socks5://adearman:AdeArman1412@51.254.167.45:12176
+9|gaminggege052@gmail.com:AdeArman1412|14182897-res-country-GB-session-8:1z51k7ve4l@109.236.93.143:11136
+25|gaminggege052@gmail.com:AdeArman1412|14182913-res-country-GB-session-24:t9aosjjll@109.236.94.16:11075
+12|gaminggege052@gmail.com:AdeArman1412|14182900-res-country-GB-session-13:1sbb46y9l4@190.2.130.11:13981
+8|gaminggege052@gmail.com:AdeArman1412|14182896-res-country-GB-session-6:1agtb8ou2s@62.112.9.140:11634
+17|gaminggege052@gmail.com:AdeArman1412|14182905-res-country-GB-session-18:c26ikolst@217.23.6.161:12118
+32|gaminggege052@gmail.com:AdeArman1412|14182920-res-country-GB-session-32:2d1tl590mh@62.112.11.200:11430
+26|gaminggege052@gmail.com:AdeArman1412|14182914-res-country-GB-session-26:1dbfcm9vjv@109.236.80.210:12473
+22|gaminggege052@gmail.com:AdeArman1412|14182910-res-country-GB-session-21:2k0pfbvuje@190.2.137.59:12863
+3|gaminggege052@gmail.com:AdeArman1412|14237004-res-country-GB-session-3:2cwsrh7v2j@89.38.99.96:11382
+34|gaminggege052@gmail.com:AdeArman1412|14237035-res-country-GB-session-33:10vszi6f4y@190.2.151.110:14212
